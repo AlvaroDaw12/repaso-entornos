@@ -1,3 +1,7 @@
 TRABAJO GIT
 Descripcion breve del trabajo para Git.
-Herramientas utilizadas correctamente
+<<<<<<< HEAD
+Herramientas utilizadas
+=======
+Herramientas utilizadas nuevas
+>>>>>>> Documentacion
