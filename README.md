@@ -1,3 +1,3 @@
 Proyecto: Gestor de tareas
-Estado: Pendiente
+Estado: Interfaz en desarrollo
 Autor: Álvaro Palacios
