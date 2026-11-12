@@ -1,3 +1,3 @@
 Proyecto: Gestor de tareas
-Estado: Servidor en desarrollo
+Estado: Interfaz en desarrollo
 Autor: Álvaro Palacios
